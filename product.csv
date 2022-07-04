@@ -1,0 +1,37 @@
+id,name,color,created_at,description,image,sales,price,sku,updated_at,brand_name,category_type,inventory_quantity
+1,Indus Solid Wood 3 Seater Sofa Cum Bed In Provincial Teak Finish,brown,13:33.1,This Is Furniture Product,furniture1.webp,5,86999,4822,25:58.0,Woodsworth,beds&mattresses,13
+2,Avey Solid Wood Queen Size Poster Bed In Provincial Teak Finish,grey,07:22.9,This Is beds&mattresses Product,beds&mattresses5.jpg,0,90999,482859,07:22.9,Woodsworth,beds&mattresses,22
+3,Ines Sofa Cum Bed In Chestnut Brown Colour with Storage,black,14:09.5,This Is Furniture Product,furniture2.webp,3,86857,482225,14:09.5,CasaCraft,furniture,9
+4,Rogelio LHS Sofa Cum Bed With Storage In Slate Grey Colour,blue,11:45.5,This Is Furniture Product,furniture5.webp,4,29935,482285,11:45.5,CasaCraft,furniture,18
+5,Fumiko 4 Seater Dining set in Walnut & Light Grey Finish,brown,30:30.5,Dining,dining10,10,27001,dining40,30:30.5,CasaCraft,dining&Bar,15
+6,Morris 3 Seater Sofa cum Bed in Royal Blue Colour,blue,35:15.3,This Is Furniture Product,furniture3.webp,2,46624,482285,34:48.4,ARRA,furniture,6
+7,Edo Sofa Cum Bed in Brown Colour,red,36:38.6,This Is Furniture Product,furniture4.jpg,0,22928,482285,36:38.6,Trevi Furniture,furniture,5
+8,Kosmo Coral 2 Door Wardrobe in Drift Wood Finish,green,46:11.1,This Is Storage Product,storage1.webp,0,21972,482569,46:11.1,Spacewood,storage,8
+9,Sun & Moon Wardrobe with Drawer Storage in Multicolour,brown,47:58.5,This Is Storage Product,storage2.webp,0,47336,482569,47:58.5,Boingg! - A Happy Start,storage,8
+10,Winslet 3 Door Wardrobe in Exotic Teak & Frosty White Colour,red,55:13.7,This Is Storage Product,storage3.webp,0,32871,482859,55:13.7,A GLOBIA CREATIONS,storage,12
+11,Aqua Splash 2 Door Wardrobe In White & Blue Finish,aqua blue,56:33.5,This Is Storage Product,storage4.webp,0,7999,482859,56:33.5,Mintwud,storage,12
+12,Fiona Kids' 3 Door Multi Colour Wardrobe with 3 Drawers In Barbie Pink Colour,pink,12:12.2,This Is Storage Product,storage5.webp,10,50000,482859,12:12.2,Adona,storage,25
+13,Siramika Solid Wood Poster Bed in Honey Oak Finish,black,01:09.5,This Is beds&mattresses Product,beds&mattresses1.webp,0,60999,482859,01:09.5,Mudramark,beds&mattresses,24
+14,Vayaka Solid Wood King Size Poster Bed In Provincial Teak Finish,red,02:11.2,This Is beds&mattresses Product,beds&mattresses2.webp,0,84999,482859,02:11.2,Mudramark,beds&mattresses,24
+15,Vayaka Solid Wood King Size Poster Bed In Honey Oak Finish,grey,06:17.6,This Is beds&mattresses Product,beds&mattresses4.jpg,0,84999,482859,06:17.6,Mudramark,beds&mattresses,22
+16,Navah Poster Queen Bed In American Walnut Finish,red,04:01.2,This Is beds&mattresses Product,beds&mattresses3.webp,0,204899,482859,04:01.2,Orange Tree,beds&mattresses,24
+17,Single Black Cap 750ml Stainless Steel Bottle,white,12:12.7,This Is  dining&Bar Product, dining&Bar1.webp,0,1449,482859,12:12.7,CasaGold,dining&Bar,22
+18,Aztec Green & Black 400ml (Set Of 4) Ceramic Everyday Glass,black,13:37.2,This Is  dining&Bar Product, dining&Bar2.webp,0,1499,482859,13:37.2,Vareesha,dining&Bar,14
+19,Floral (Set Of 6) Black Glass Dinner Bowl,white,14:34.4,This Is  dining&Bar Product, dining&Bar3.webp,0,1454,482859,14:34.4,Cdi,dining&Bar,14
+20,Floral (Set Of 6) Black Glass Quarter Plate,white,17:37.3,This Is  dining&Bar Product, dining&Bar4.webp,0,1777,482859,17:37.3,Cdi,dining&Bar,12
+21,Fluer Black 1.2 Ltr Ceramic Jar,blue,18:46.0,This Is  dining&Bar Product, dining&Bar5.jpg,0,1777,482859,18:46.0,The White Ink Decor,dining&Bar,12
+22,Engineered Wood Wallshelf in Walnut Finish,brown,19:43.9,This is wall Accents Product,wallAccents1.webp,0,5299,4587963,19:43.9,WallMantra,wall Accents,20
+23,Engineered Wood Wallshelf in Oak Finish,yellow,20:57.9,This is wall Accents Product,wallAccents2.webp,0,4399,4587963,20:57.9,WallMantra,wall Accents,20
+24,Wood Round Shape Wall Mirror,yellow,28:54.1,This is decor Product,decor2.jpg,0,4594,4587963,28:54.1,WallMantra,decor,18
+25,Sheesham Wood Book Shelf in Rustic Finish,brown,22:44.2,This is wall Accents Product,wallAccents3.webp,0,5105,4587963,22:44.2,WoodenMood,wall Accents,12
+26,Mango Wood Floating Wall Shelf in Black Colour,black,23:36.2,This is wall Accents Product,wallAccents4.webp,0,1799,4587963,23:36.2,Craft Tree,wall Accents,12
+27,Mango Wood Wall Shelf In Natural Wood,brown,24:50.6,This is wall Accents Product,wallAccents5.webp,0,3625,4587963,24:50.6,Disoo Fashions,wall Accents,12
+28,Marble Finish Decorative Mirror in Beige Colour,white,30:28.4,This is decor Product,decor3.webp,0,773,4587963,30:28.4,Art Street,decor,18
+29,Eye See You Boho Mirror In Green,green,32:47.0,This is decor Product,decor4.jpg,0,2495,4587963,32:47.0,Chumbak,decor,18
+30,MDF Decorative Hand Crafted Round Wall Mirror,brown,34:21.8,This is decor Product,decor5.webp,0,2349,4587963,34:21.8,The Urban Store,decor,18
+31,Metal Small Mirror Wall Art in Bronze Antique colour,white,36:16.5,This is decor Product,decor1.webp,0,3299,4587963,36:16.5,Craftter,decor,30
+32,Alexa 12 Light Modern & Contemporary Crystal Chandelier Kapoor E Illuminations,yellow,44:46.6,This is lighting Product,lighting1.webp,0,81222,4587963,44:46.6,Kapoor E Illuminations,lighting,3
+33,Karly Beige Fabric Shade Floor Lamp With Brown Base,brown,46:38.4,This is lighting Product,lighting2.webp,0,5084,4597963,46:38.4,Sapphire,lighting,3
+34,Pellucid Cilindro Golden Metal Wall Sconces,brown,48:02.7,This is lighting Product,lighting3.webp,0,1722,4597963,48:02.7,Eliante by Jainsons Lights,lighting,3
+35,Brass Metal Wall Sconces,white,49:01.7,This is lighting Product,lighting4.webp,0,4879,4595663,49:01.7,New Era,lighting,3
+36,Grey Metal Outdoor Wall Light,brown,50:20.5,This is lighting Product,lighting5.jpg,1,1761,4595663,30:38.1,Superscape Outdoor Lighting,lighting,3
